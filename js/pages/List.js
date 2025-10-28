@@ -100,10 +100,13 @@ export default {
                     </template>
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.0.0 - 28/10/2025
+                       Version 1.0.3 - 28/10/2025
                     </p>
                     <p>  
                         Ouverture de la Pemonlist de Ypixell GDPS
+                    </p>
+                    <p>  
+                        3 platformers ont été ajoutés sur la Pemonlist
                     </p>
                 </div>
             </div>
