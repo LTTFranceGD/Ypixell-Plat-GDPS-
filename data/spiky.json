@@ -5,8 +5,14 @@
     "creators": ["nooumi"],
     "verifier": "LicorneGDPS",
     "verification": "https://www.youtube.com/watch?v=NDSVVmsae2E",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "FroZt",
+            "link": "https://www.youtube.com/watch?v=vPKPhQh6DKs",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
